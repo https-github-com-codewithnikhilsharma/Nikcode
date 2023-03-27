@@ -13,6 +13,7 @@ public class Array {
 		numbers[2] = 3;
 		numbers[3] = 4;
 		numbers[4] = 5;
+		numbers[5] = 5;
 
 		// print the values of the array
 		for (int i = 0; i < numbers.length; i++) {
